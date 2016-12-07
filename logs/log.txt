@@ -1,0 +1,24 @@
+INFO Crawler 1 com.project.DAO.FakeDB - INSERT INTO restaurant (name, introduce, avatar, images, type) VALUES (?, ?, ?, ?, ?)
+INFO Crawler 1 com.project.DAO.FakeDB - INSERT INTO address (detail, city, district, id_restaurant) VALUES (?,?,?,?)
+INFO Crawler 1 com.project.DAO.FakeDB - Init fake data complete
+INFO Crawler 1 com.project.DAO.FakeDB - INSERT INTO restaurant (name, introduce, avatar, images, type) VALUES (?, ?, ?, ?, ?)
+INFO Crawler 1 com.project.DAO.FakeDB - INSERT INTO address (detail, city, district, id_restaurant) VALUES (?,?,?,?)
+INFO Crawler 1 com.project.DAO.FakeDB - Init fake data complete
+INFO Crawler 1 com.project.DAO.FakeDB - INSERT INTO restaurant (name, introduce, avatar, images, type) VALUES (?, ?, ?, ?, ?)
+INFO Crawler 1 com.project.DAO.FakeDB - INSERT INTO address (detail, city, district, id_restaurant) VALUES (?,?,?,?)
+INFO Crawler 1 com.project.DAO.FakeDB - Init fake data complete
+INFO Crawler 1 com.project.DAO.FakeDB - INSERT INTO restaurant (name, introduce, avatar, images, type) VALUES (?, ?, ?, ?, ?)
+INFO Crawler 1 com.project.DAO.FakeDB - INSERT INTO address (detail, city, district, id_restaurant) VALUES (?,?,?,?)
+INFO Crawler 1 com.project.DAO.FakeDB - Init fake data complete
+INFO Crawler 1 com.project.DAO.FakeDB - INSERT INTO restaurant (name, introduce, avatar, images, type) VALUES (?, ?, ?, ?, ?)
+INFO Crawler 1 com.project.DAO.FakeDB - INSERT INTO address (detail, city, district, id_restaurant) VALUES (?,?,?,?)
+INFO Crawler 1 com.project.DAO.FakeDB - Init fake data complete
+INFO Crawler 1 com.project.DAO.FakeDB - INSERT INTO restaurant (name, introduce, avatar, images, type) VALUES (?, ?, ?, ?, ?)
+INFO Crawler 1 com.project.DAO.FakeDB - INSERT INTO address (detail, city, district, id_restaurant) VALUES (?,?,?,?)
+INFO Crawler 1 com.project.DAO.FakeDB - Init fake data complete
+INFO Crawler 4 com.project.DAO.FakeDB - INSERT INTO restaurant (name, introduce, avatar, images, type) VALUES (?, ?, ?, ?, ?)
+INFO Crawler 4 com.project.DAO.FakeDB - INSERT INTO address (detail, city, district, id_restaurant) VALUES (?,?,?,?)
+INFO Crawler 4 com.project.DAO.FakeDB - Init fake data complete
+INFO Crawler 1 com.project.DAO.FakeDB - INSERT INTO restaurant (name, introduce, avatar, images, type) VALUES (?, ?, ?, ?, ?)
+INFO Crawler 1 com.project.DAO.FakeDB - INSERT INTO address (detail, city, district, id_restaurant) VALUES (?,?,?,?)
+INFO Crawler 1 com.project.DAO.FakeDB - Init fake data complete
